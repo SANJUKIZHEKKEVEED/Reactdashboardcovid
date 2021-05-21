@@ -95,7 +95,7 @@ function App() {
   <Card bg = "info" text="white" className="text-center" style={{margin: "10px"}}>
    
     <Card.Body>
-      <Card.Title>Total Cases</Card.Title>
+      <Card.Title>Total Active Cases</Card.Title>
       <Card.Text>
       {data.active}
       </Card.Text>
