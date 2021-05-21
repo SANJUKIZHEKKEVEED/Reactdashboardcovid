@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Reactdashboardcovid/static/css/main.4215eee4.chunk.css",
+    "main.js": "/Reactdashboardcovid/static/js/main.0b14463c.chunk.js",
+    "main.js.map": "/Reactdashboardcovid/static/js/main.0b14463c.chunk.js.map",
+    "runtime-main.js": "/Reactdashboardcovid/static/js/runtime-main.18205897.js",
+    "runtime-main.js.map": "/Reactdashboardcovid/static/js/runtime-main.18205897.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Reactdashboardcovid/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9c4070eb.chunk.js": "/Reactdashboardcovid/static/js/2.9c4070eb.chunk.js",
+    "static/js/2.9c4070eb.chunk.js.map": "/Reactdashboardcovid/static/js/2.9c4070eb.chunk.js.map",
+    "static/js/3.419321f3.chunk.js": "/Reactdashboardcovid/static/js/3.419321f3.chunk.js",
+    "static/js/3.419321f3.chunk.js.map": "/Reactdashboardcovid/static/js/3.419321f3.chunk.js.map",
+    "index.html": "/Reactdashboardcovid/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Reactdashboardcovid/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.4215eee4.chunk.css.map": "/Reactdashboardcovid/static/css/main.4215eee4.chunk.css.map",
+    "static/js/2.9c4070eb.chunk.js.LICENSE.txt": "/Reactdashboardcovid/static/js/2.9c4070eb.chunk.js.LICENSE.txt",
+    "static/media/flag.4d323056.png": "/Reactdashboardcovid/static/media/flag.4d323056.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18205897.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9c4070eb.chunk.js",
+    "static/css/main.4215eee4.chunk.css",
+    "static/js/main.0b14463c.chunk.js"
+  ]
+}
